@@ -1,0 +1,27 @@
+name: ml4t
+channels:
+  - ml4t
+  - conda-forge
+  - defaults
+  - anaconda
+  - ranaroussi
+dependencies:
+  - alphalens-reloaded
+  - conda
+  - empyrical-reloaded
+  - jupyter
+  - lightgbm
+  - matplotlib
+  - pandas
+  - pandas-datareader
+  - pip
+  - pyfolio-reloaded
+  - pytables
+  - python=3.8
+  - scikit-learn
+  - seaborn
+  - shap
+  - statsmodels
+  - ta-lib
+  - tqdm
+  - zipline-reloaded
